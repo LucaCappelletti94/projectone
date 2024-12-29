@@ -671,7 +671,7 @@ body {
 }
 
 .band .box ul.instruments li {
-    width: 16.5%;
+    width: calc(100% / 7);
     float: left
 }
 
